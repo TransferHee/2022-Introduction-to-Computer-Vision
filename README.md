@@ -1,6 +1,6 @@
 # 2022-Introduction-to-Computer-Vision
 
-### Score
+## Score
 
     Assign1 - 100/100 (평균 85)
 	Assign2 - 100/100 (평균 71)
@@ -10,3 +10,19 @@
 	Grade: A+
 	
 ## Assign 1
+
+### A1_image_filtering
+
+Perform Gaussian filtering to an image (lenna only)
+
+### A1_edge_detection
+
+Perform edge detection without simplified NMS
+
+With simplified NMS
+
+### A1_corner_detection
+
+Perform corner detection without NMS
+
+With winSize NMS
