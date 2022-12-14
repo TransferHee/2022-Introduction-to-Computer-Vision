@@ -85,7 +85,7 @@ Image stitching and blending
     
     Raw = 0.8050090158803994
     Norm = 0.3595533893873907
-    Mine = 0.351722375664347
+    *Mine = 0.351722375664347
     OpenCV 8POINT = 0.35920028823193695
 
 Draw Epipolar lines
