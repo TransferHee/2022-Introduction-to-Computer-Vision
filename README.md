@@ -5,7 +5,7 @@
     Assign1 - 100/100 (Average score: 85)
     Assign2 - 100/100 (Average score: 71)
     Assign3 - 100/100 (Average score: 78.6)
-    Assign4 - 86/100  (Average score: 60.6)
+    Assign4 - 86/100  (Average score: 59.9)
 	
     Grade: A+
 
