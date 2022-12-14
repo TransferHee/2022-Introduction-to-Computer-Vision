@@ -90,6 +90,8 @@ Image stitching and blending
 
 Draw Epipolar lines
 
+![ep](https://user-images.githubusercontent.com/62924398/207552853-3427c187-f86a-48a9-a821-36019ebc9395.png)
+
 ## Assign 4
 
 ### A4_compute_descriptors
@@ -98,3 +100,5 @@ Draw Epipolar lines
     
     L1: 3.32200 / L2: 3.3210
     Your Accuracy = 3.322000
+    
+    
